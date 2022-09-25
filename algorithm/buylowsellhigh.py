@@ -73,7 +73,11 @@ class Buylow:
                                                           <Instrument>
                                                               <Product>
                                                                   <securityType>EQ</securityType>
-                                                                  <symbol></symbol>
+                                                                  <symbol>F</symbol>
+                                                                  <securityType>EQ</securityType>
+                                                                  <symbol>NMTK</symbol>
+                                                                  <securityType>EQ</securityType>
+                                                                  <symbol>NIO</symbol>
                                                               </Product>
                                                               <orderAction>{2}</orderAction>
                                                               <quantityType>QUANTITY</quantityType>
